@@ -9,7 +9,7 @@ I'm Vishal Prajapati and I'm Software Developer enthusiast and eager to Learn an
 
 
   <b> ✨ SOCIAL MEDIA 👋<b>
-### &nbsp;&nbsp;&nbsp;🔗 <a href="linkedin.com/in/vishal-prajapati17" >LinkedIn</a>
+### &nbsp;&nbsp;&nbsp;🔗 <a href="https://www.linkedin.com/in/vishal-prajapati17/" >LinkedIn</a>
 ### &nbsp;&nbsp;&nbsp;🔗 <a href="https://youtube.com/@VishalPrajapati-xp9iw?si=dUkpJXPg7lmPu7JZ" >YouTube</a>
 ### &nbsp;&nbsp;&nbsp;🔗 <a href="https://github.com/Vishlu" >GitHub</a>
 
