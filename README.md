@@ -151,8 +151,3 @@ We've delivered successful client projects.
 8. [My SQL Basics](https://github.com/Vishlu/Certifications/blob/main/My%20SQL%20Basics.pdf)  
 9. [Know Your Economy Quiz](https://github.com/Vishlu/Certifications/blob/main/Know%20Your%20Economy%20Quiz.pdf)  
 10. [IIT E-SUMMIT'23](https://github.com/Vishlu/Certifications/blob/main/IIT%20E-SUMMIT'23.pdf)  
-
----
-
-*Note: For a draggable circular navigation menu in the lower-right (options: Now, Venture, Certification), this requires custom HTML/JS/CSS on a web page. In GitHub README, use section anchors like [#what-im-doing-now](#⏰-what-im-doing-now) for navigation.*
-```
