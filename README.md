@@ -18,8 +18,6 @@ Beyond code, I stay active with regular workouts and prioritize collaboration, m
 - 🐦 **X (Twitter)**: [@VishalP78425](https://x.com/VishalP78425)  
 - 📝 **Medium**: [@vishalprajapa15](https://medium.com/@vishalprajapa15)  
 - 💻 **LeetCode**: [Vishal-17](https://leetcode.com/u/Vishal-17/)  
-- 🏆 **HackerRank (30 Days of Code)**: [30-days-of-code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)  
-- 🏢 **Kompass India**: [in.kompass.com](https://in.kompass.com/)  
 
 ---
 
