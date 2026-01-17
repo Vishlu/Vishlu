@@ -1,6 +1,5 @@
 # Hi, I'm Vishal Prajapati 👋
-
-![Profile Banner](https://via.placeholder.com/1200x300?text=Vishal+Prajapati+Portfolio+Banner)  
+ 
 *Full Stack Engineer | Co-Founder @ Alienous AI | AI/ML Enthusiast*
 
 🌟 **About Me**  
