@@ -30,13 +30,11 @@ Kompass India is a global leader in innovative B2B data and digital marketing so
 - 📅 Managed multiple high-priority projects with top organizational skills, meeting deadlines and quality standards.  
 - 🔌 Developed an API using Kompass API key for seamless database interactions, updates, and creations.  
 - 🤖 Designed a bidirectional LSTM model for gender classification from names, achieving 92.45% accuracy.  
-- 📧 Built an intelligent Email Lead Generation Tool for automated client notifications, boosting outreach efficiency.  
-- ⚙️ Leveraged Generative AI and prompt engineering to automate tasks, saving 35% workflow time.  
+- 📧 Built an intelligent Email Lead Generation Tool for automated client notifications, boosting outreach efficiency.    
 - 📊 Streamlined data collection/reporting with Python automation, reducing processing time by 20%.  
 - 🕷️ Created data extraction tools (emails, phones, addresses) using Python, Scrapy, and BeautifulSoup—cutting manual effort by 50%.  
 - 📄 Documented full system architectures, specs, and API docs for maintainability.  
-- 🔒 Handled large datasets with best practices in efficiency, security, and compliance.  
-- 🛠️ Built optimized data pipelines and warehouses, improving accessibility and query speeds.  
+- 🔒 Handled large datasets with best practices in efficiency, security, and compliance.   
 - 👨‍🏫 Mentored juniors to align with project vision and enhance their skills.  
 - 📈 Led weekly progress meetings for stakeholder alignment on milestones.  
 
