@@ -10,7 +10,6 @@ Most recently, as a Data Engineer at Kompass India, I built a centralized AI aut
 Beyond code, I stay active with regular workouts and prioritize collaboration, mentorship, and clear communication—often guiding junior developers. When not building tech, I'm exploring how innovation solves real-world challenges. Let's connect!  
 
 ## 🔗 Connect with Me  
-- 📞 **Phone**: +91 9136714400  
 - 📧 **Email**: [vishalprajapa15@gmail.com](mailto:vishalprajapa15@gmail.com)  
 - 🔗 **LinkedIn**: [vishal-prajapati17](https://www.linkedin.com/in/vishal-prajapati17/)  
 - 🐙 **GitHub**: [Vishlu](https://github.com/Vishlu)  
